@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and designing algorithms
 - 🌱 I’m currently learning data structures and algorithms, DBMS
 - 💞️ I’m looking to collaborate on java projects 
-- 📫 How to reach me srivenkatgodithi@gmail.com
+
 
 <!---
 Venkat-G9328/Venkat-G9328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
